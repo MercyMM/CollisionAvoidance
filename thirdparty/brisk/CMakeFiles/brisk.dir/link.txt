@@ -1,0 +1,2 @@
+/usr/bin/ar cr libbrisk.a  CMakeFiles/brisk.dir/src/brisk.o
+/usr/bin/ranlib libbrisk.a
